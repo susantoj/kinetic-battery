@@ -1,7 +1,7 @@
 kinetic-battery
 ===============
 
-Python implementation of kinetic battery model (KiBaM)
+Python implementation of kinetic battery model (KiBaM): currently only the capacity model and charge transfer model
 
 References
 ----------
